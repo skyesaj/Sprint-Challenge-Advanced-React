@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  /* background-color: #61dafb; */
 }
 
 .App-logo {
@@ -30,4 +31,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.dark-mode {
+  background-color: black;
+}
+
+.card {
+  background-color: #45a4c7;
+
+  border-radius: 28px;
+  border: 2px solid #45a4c7;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 24px 46px;
+  text-decoration: none;
+  width: 240px;
+  outline: 0;
+  /* color: black; */
+  border-bottom: 1px solid;
+  margin-right: 8px;
+}
+
+h1 {
+  color: #45a4c7;
+  border-radius: 4px;
+  border: 2px solid #45a4c7;
 }
