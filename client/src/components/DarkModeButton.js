@@ -17,7 +17,7 @@ const DarkModeButton = () => {
             onClick={toggleMode}
             className={darkMode ? "toggle toggled" : "toggle"}
           >
-            Dark Mode: ON/OFF
+            ON/OFF
           </button>
         </div>
       </div>
