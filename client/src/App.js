@@ -32,7 +32,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <DarkModeButton />
-        <h1>Player Cards</h1>
+        <h1 className="hello">Player Cards</h1>
         <div className="card-div">
           {this.state.players.map((player, index) => (
             <PlayerCard

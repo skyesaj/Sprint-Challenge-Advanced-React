@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.0.0",
-    "jest": "^24.9.0",
     "nodemon": "^1.17.2",
     "react-test-renderer": "^16.12.0"
   },
